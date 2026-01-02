@@ -33,12 +33,9 @@ We implemented pricing/risk tasks in Python (FinancePy) and documented results i
 - Computed a par spread for a 4Y maturity and valued an off-market CDS position.
 - Computed bucketed sensitivity (CS01-style) and discussed dealer hedging intuition.
 
-## Key results (highlights)
+## Key results 
 - Delta-hedging: mean replication error ~0, while error variance decreases materially as hedge frequency increases.
 - Realized volatility explains a meaningful share of hedging error when hedging with a constant-vol Black–Scholes delta.
 - Inflation: produced a market-implied CPI curve, PV01 by maturity, and nominal vs real PV of liabilities.
 - CDS: computed par spread for the target maturity and marked-to-market a long-protection position vs market.
 
-## How to view quickly (recruiter-friendly)
-- Read the report first (final narrative): `report/DSP_Coursework_Group13_Report.pdf`
-- If you want to skim the code without running anything: open the HTML export in `notebooks/`.
