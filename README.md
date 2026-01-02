@@ -11,7 +11,6 @@ We implemented pricing/risk tasks in Python (FinancePy) and documented results i
 - Question (PDF): `assignment_2025_dsp.pdf`
 - Report (PDF): `DSP_Coursework_Group13_Report.pdf`
 - Code (notebook): `DSP_Coursework_Group13_code_as_jupyter_notebook.ipynb`
-- Code (HTML, easy to view on GitHub): `DSP_Coursework_Group13_code_as_html_file.html`
 
 ## What we built (by question)
 ### Q1 — Black–Scholes delta hedging (simulation)
