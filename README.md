@@ -8,6 +8,7 @@ This repository contains our EDHEC M2 Derivatives & Structured Products coursewo
 We implemented pricing/risk tasks in Python (FinancePy) and documented results in a formal report.
 
 **Main deliverables**
+- Question (PDF): `assignment_2025_dsp.pdf`
 - Report (PDF): `DSP_Coursework_Group13_Report.pdf`
 - Code (notebook): `DSP_Coursework_Group13_code_as_jupyter_notebook.ipynb`
 - Code (HTML, easy to view on GitHub): `DSP_Coursework_Group13_code_as_html_file.html`
